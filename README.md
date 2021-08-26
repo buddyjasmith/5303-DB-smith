@@ -1,1 +1,7 @@
-# 5303-DB-smith
+
+#### Image:![Buddy's Photo](https://github.com/buddyjasmith/photo/blob/main/PXL_20210113_193314910.MP.jpg?raw=true )
+
+### Buddy Smith
+#### Email: BuddyJASmith@gmail.com
+
+
