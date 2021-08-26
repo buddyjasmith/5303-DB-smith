@@ -3,5 +3,5 @@
 
 ### Buddy Smith
 #### Email: BuddyJASmith@gmail.com
-
+#### Github: [https://github.com/buddyjasmith](http://github.com/buddyjasmith)
 
