@@ -7,7 +7,7 @@ class RestaurantUtils:
         self.client = MongoClient("mongodb://localhost:27017/")
         self.db = self.client.NYC
         self.collection = self.db.geo_restaurant
-    def convertToGeoJSON():
+    def convertToGeoJSON(self):
         '''
         : @param: None
         : Description: Removes resturants from the file restaurant.json
