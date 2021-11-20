@@ -1,5 +1,6 @@
-from fastapi import FastAPI, Form, HTTPException, Response
+from fastapi import FastAPI, Form, HTTPException, Response, Body
 from typing import Optional, List
+from pydantic import BaseModel
 from fastapi.responses import JSONResponse
 from models import Geo_Restaurant
 from restaurantUtils import RestaurantUtils
@@ -13,9 +14,16 @@ import uvicorn
 app = FastAPI()
 utils = RestaurantUtils()
 
+class Item(BaseModel):
+    name: str
+    description: Optional[str] = None
+    price: float
+    tax: Optional[float] = None
+
 @app.get("/")
-def home(name: str = Form(...)):
-    return {"message": name}
+def home(important: str=Body(...), item: Item = Body(...)):
+    return {"message": item, 
+            "important": important}
 
 @app.get('/restaurants/')
 async def get_all(page_size: int = Form(...), page_num: int = Form(...)):
@@ -45,8 +53,9 @@ async def get_all(page_size: int = Form(...), page_num: int = Form(...)):
     '/get_by_distance/',
     response_description="List of all restaurants within a given distance"
     )
-async def get_by_distance(distance: int = Form(...), coords: List[float] = Form(...),
-    category: Optional[str]=Form(None)):
+async def get_by_distance(distance: int = Form(...), 
+                          coords: List[float] = Form(...),
+                          category: Optional[str]=Form(None)):
     '''
     : Form-Data:
     :   @param: distance -> distance from coordinates to be searched.  INT
@@ -117,7 +126,7 @@ async def get_categories():
 @app.get(
     '/cuisine_look_up', 
     )
-async def get_cuisine(response: Response,cuisine: str = Form(...)):
+async def get_cuisine(cuisine: str = Form(...)):
     cursor = list(utils.get_by_cuisine(cuisine))
     cursor = jsonable_encoder(cursor)
     description = "List of restaurants of a given type"
