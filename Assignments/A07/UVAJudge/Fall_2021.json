@@ -2,153 +2,229 @@
     {
         "last": "Griffin",
         "first": "Terry",
+        "slack_username": "rugbyprof",
+        "userName": "rugbyprof",
         "judgeID": 845581,
+        "github_username": "rugbyprof",
         "github": "https://github.com/rugbyprof/",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "ALSAUD",
         "first": "FOWZY",
+        "slack_username": "Fowzy",
+        "userName": "fowzy",
         "judgeID": 1169024,
+        "github_username": "fowzy",
         "github": "https://github.com/fowzy/4883-PT-Alsaud",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Beaty",
         "first": "Joshua",
+        "slack_username": "Joshua Beaty",
+        "userName": "Majestic Joker",
         "judgeID": 1114774,
+        "github_username": "Majestic-Joker",
         "github": "https://github.com/Majestic-Joker/4883-PT-Beaty",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Browne",
         "first": "Je Vonte",
+        "slack_username": "Dymon Browne",
+        "userName": "DymonBr",
         "judgeID": 1234747,
+        "github_username": "DymonB",
         "github": "https://github.com/DymonB/4883-Programming-Techniques--Browne",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Dowling",
         "first": "Byron",
+        "slack_username": "Byron Dowling",
+        "userName": "bdowling7",
         "judgeID": 1234228,
+        "github_username": "bdowling7",
         "github": "https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Gilliland",
         "first": "Sarah",
+        "slack_username": "Sarah Gilliland",
+        "userName": "sgilliland",
         "judgeID": 1124001,
+        "github_username": "sgilliland",
         "github": "https://github.com/sgilliland/4883-Programming_Techniques-Gilliland ",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Hawkins",
         "first": "David",
+        "slack_username": "David Hawkins",
+        "userName": "hawkidav000",
         "judgeID": 1130285,
+        "github_username": "hawkidav000",
         "github": "https://github.com/hawkidav000/4883-PT-hawkins",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Hogan",
         "first": "Jonathan",
+        "slack_username": "Jonathan H",
+        "userName": "jon_hogan",
         "judgeID": 1234257,
+        "github_username": "jonhogan",
         "github": "https://github.com/jonhogan/4883-prog-tech",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Konan",
         "first": "Loic",
+        "slack_username": "Loic Konan",
+        "userName": "Elfuego10",
         "judgeID": 1233976,
+        "github_username": "LoicKonan",
         "github": "https://github.com/LoicKonan/4883-PT-Konan",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Mendez",
         "first": "Taylor",
+        "slack_username": "Taylor Mendez",
+        "userName": "tmendez",
         "judgeID": 1234388,
+        "github_username": "Taylor-Mendez",
         "github": "https://github.com/Taylor-Mendez/4883-PT-Mendez",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Morris",
         "first": "Austin",
+        "slack_username": "Austin M",
+        "userName": "amsquarewave",
         "judgeID": 965556,
+        "github_username": "AMSquareWave",
         "github": "https://github.com/AMSquareWave/4883-Programming-Techniques",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Partridge",
         "first": "Shaun",
+        "slack_username": "Shaun Partridge",
+        "userName": "Shaunjp9197",
         "judgeID": 1122420,
+        "github_username": "ShaunJPartridge",
         "github": "https://github.com/ShaunJPartridge/4883-PT-Partridge",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "yi",
         "first": "zhang",
+        "slack_username": "YI ZHANG",
+        "userName": "kuucd",
         "judgeID": 1029347,
+        "github_username": "yizhang0301",
         "github": "https://github.com/yizhang0301/4883-Programming-Techniques-YIZhang",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Johnson",
         "first": "Garrett",
+        "slack_username": "Garrett Johnson",
+        "userName": "DefintelyNotSpam",
         "judgeID": 1234366,
+        "github_username": "garrett-johnson12",
         "github": "https://github.com/garrett-johnson12/4883-PT-Johnson",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Riddle",
         "first": "Austin",
+        "slack_username": "Austin Riddle",
+        "userName": "ThePreassume",
         "judgeID": 1234395,
+        "github_username": "Preassume",
         "github": "https://github.com/Preassume/4883-PT-Riddle",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Van De Vyvere",
         "first": "Nathan",
+        "slack_username": "Nathan Van De Vyvere",
+        "userName": "AngryAlgorithms",
         "judgeID": 929746,
+        "github_username": "natevan",
         "github": "https://github.com/natevan/4883-PT-vandevyvere",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Trampert",
         "first": "Alex",
+        "slack_username": "AlexTrampert99",
+        "userName": "AlexTrampert99",
         "judgeID": 1130044,
+        "github_username": "Alex-Trampert",
         "github": "https://github.com/Alex-Trampert/4883-ProgTech-Trampert",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Kohler",
         "first": "James",
+        "slack_username": "j_im",
+        "userName": "jmkohler",
         "judgeID": 1128977,
+        "github_username": "j-imbo",
         "github": "https://github.com/j-imbo/4883-PT-Kohler",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     },
     {
         "last": "Turner",
         "first": "Sarah",
+        "slack_username": "Sarah Turner",
+        "userName": "Slturner980",
         "judgeID": 1234410,
+        "github_username": "Slturner980",
         "github": "https://github.com/Slturner980/4883-PT-Turner",
-        "solved": {},
-        "required_assns": {}
+        "solved_problems": {},
+        "solved_problem_numbers": [],
+        "failed_to_solve": []
     }
 ]
